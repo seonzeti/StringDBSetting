@@ -1,4 +1,4 @@
-package com.zeti.bowling;
+package com.zeti.bowling.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
